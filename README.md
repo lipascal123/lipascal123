@@ -14,7 +14,7 @@ My passion is all about autonomous robots. The last 2 years I've been developing
 My expertise lies in sensor fusion for localization and perception for local path planning.
 
   - ***Sensor fusion***
-    - Graph based sensor fusion for agiruclutral robots fusing VIO, (RTK) GPS, Wheel Odometry.
+    - Graph based sensor fusion for agiruclutral robots fusing VIO, (RTK) GPS and Wheel Odometry.
       -  [Semester project report](https://github.com/lipascal123/lipascal123/files/9961735/Graph_Based_State_Estimation_for_Agricutlural_Robots.pdf)
 
   - ***Perception***
