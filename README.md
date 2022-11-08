@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://user-images.githubusercontent.com/43472532/200576007-1a5b3136-4ffe-435f-9f06-f7ca2d865dfa.jpg" width="300" align="left">
 
 ## Agricultural robotics
