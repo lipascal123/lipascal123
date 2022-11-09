@@ -3,7 +3,7 @@
 ## Agricultural robotics
 
 My passion is all about autonomous robots. The last 2 years I've been developing the autonomy software stack for the robot depicted on the left. 
-[See our robot in action](https://www.youtube.com/watch?v=QVbg3PDAPEI&t=23s)!
+[See our robot in action](https://www.youtube.com/watch?v=QVbg3PDAPEI&t=23s)! The robot is capable to navigate trough orchard and vineyards fully autonomously.
 
 <br/>
 <br/>
@@ -25,5 +25,5 @@ My expertise lies in sensor fusion for localization and perception for local pat
       - Current project im working on as part of my master thesis at the Robotics Systems Lab at ETH Zürich 
     
  
- The pinned repositories show some work I conducted in my free time or as part of lectures at ETH Zürich.
+ The pinned repositories show some work I did during my studies at ETH Zürich.
  
